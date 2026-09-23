@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--vmess-4h8iz74s.com/sitemap.xml

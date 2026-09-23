@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0523b424cbabd3b8db6eaec5",
+  "owner": "ynw8vu9",
+  "repo": "page-d714692557b2119cffe5c0f6",
+  "title": "小青蛙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d714692557b2119cffe5c0f6",
+      "a": "小青蛙",
+      "b": "2027最新官网",
+      "entity": "小青蛙",
+      "brand": "小青蛙",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cf972069c66be65ddcbbffed497d865c41e4c23b953679b43be695635b318cd9",
+      "content": {
+        "primary_entity": "小青蛙",
+        "keyword1": "小青蛙",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，依配置文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开启小青蛙加速体验",
+          "AI_DESCRIPTION": "，小青蛙围绕跨境访问场景提供多档订阅，从基础版每月 100GB 到团队版每月 1000GB，覆盖个人到小团队需求，并按设备数量与流媒体、游戏加速等使用侧重划分权益。",
+          "AI_FEATURES_INTRO": "从流量规模、在线设备与线路偏好三个方向挑选合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备，适合手机与电脑日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 与 5 台设备，含流媒体解锁与专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 与 20 台设备，提供 VIP 高带宽与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量梯度",
+          "AI_FEATURE_TITLE_2": "在线设备",
+          "AI_FEATURE_TITLE_3": "线路权益",
+          "AI_GUIDE_INTRO": "先选套餐，再看设备适配要求，最后依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步骤",
+          "AI_HERO_INTRO": "小青蛙提供基础版、旗舰版与团队版三档海外加速订阅，月付 ¥15 起，按年付更优惠，可依据流量、在线设备与线路权益灵活选择。",
+          "AI_HERO_SUBTITLE": "轻量订阅，按设备灵活配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到小团队",
+          "AI_HIGHLIGHT_2": "按年付较月付更省费用",
+          "AI_HIGHLIGHT_3": "流媒体与游戏线路各有侧重",
+          "AI_PLANS_INTRO": "基础版适合单人或双设备，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比选择",
+          "AI_STEP_TEXT_1": "对照流量、在线设备与线路权益，从基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月中挑选。",
+          "AI_STEP_TEXT_2": "确认常用设备数量与系统版本，查看对应客户端支持的协议与配置方式。",
+          "AI_STEP_TEXT_3": "按客户端文档获取订阅信息并导入，随后测试连接与线路切换是否正常。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小青蛙多端加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版适合个人与家庭使用；团队版支持 20 台设备和定制路由，适合小团队协作。若仅日常浏览和流媒体，基础版即可满足。",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用建议直接选年付方案。",
+          "AI_FAQ_ANSWER_4": "订阅导入后在客户端内更新节点即可切换线路。旗舰版含 IPLC 专线，游戏加速可优先选择该线路组，具体以客户端显示为准。",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置，超出后当月限速。需要更大流量可升级至旗舰版或团队版，升级后流量额度立即生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小青蛙三档套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "基础版和团队版分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_3": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_4": "导入订阅后如何选择游戏加速线路？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vmess-4h8iz74s.com",
+    "host": "xn--vmess-4h8iz74s.com"
+  },
+  "file_hashes": {
+    "index.html": "7c37d17c555e77b280458d2ab92ffb15b41e4e08153013f7bd5062ba01b88f1e",
+    "sitemap.xml": "173b0e2f66bf05587beba0cc656860d07f44926f3a86bf9495777fdf515654a3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3d7e3c726a75f017406db8d59961a6a42e1957fb85e9b58a603f3f29f156b317",
+    "robots.txt": "575d707bd0b87889bf5120f92b1b335f41912e55445df2fb5448418a52f25673",
+    "b5059d97b5896b796b4dcbf8ff157a6c.txt": "8b953fd9d4b2049652ab99c255741d22d85acf8105c45857bd59f51a4ee11c89"
+  },
+  "revision": "37c6d28b22dc20fc4e010ab05b15dfbfb05d28364645785482d71dbd29475fdd"
+}
